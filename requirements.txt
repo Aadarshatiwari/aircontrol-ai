@@ -1,0 +1,7 @@
+# Native arm64 wheels, Python 3.12
+mediapipe==0.10.35
+opencv-contrib-python==4.13.0.92
+PySide6-Essentials==6.11.3
+pyobjc-framework-Quartz==12.2.2
+pyobjc-framework-AVFoundation==12.2.2
+pyobjc-framework-ApplicationServices==12.2.2
